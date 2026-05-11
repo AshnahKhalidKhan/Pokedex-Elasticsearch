@@ -18,4 +18,5 @@ Browser → FastAPI → Requests → PokéAPI
                  ↑                 ↓
                results ←←←←←←←←←←←
 ```
+- `pip freeze > requirements.txt`
 - 
