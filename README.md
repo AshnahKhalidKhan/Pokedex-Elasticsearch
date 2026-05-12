@@ -19,4 +19,4 @@ Browser → FastAPI → Requests → PokéAPI
                results ←←←←←←←←←←←
 ```
 - `pip freeze > requirements.txt`
-- 
+- Anyone cloning this repo can run `pip install -r requirements.txt` and get an identical environment instantly.
